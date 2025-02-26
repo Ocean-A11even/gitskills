@@ -7,4 +7,4 @@ bug 102 fixed!
 bug 103 fixed!
 originallllll content
 stahsed content
-we changed different files, will there be a conflict?
+we changed different files, will there be a conflict? No, there won't.
